@@ -1,4 +1,3 @@
-package org.example;
 // new
 public class Cell {
     private boolean bomb;
